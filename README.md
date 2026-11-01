@@ -1,5 +1,5 @@
 # Python-Project
 
-Project 1 - Python Calculator 
+# Project 1 - Python Calculator
 
 
